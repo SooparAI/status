@@ -4,30 +4,32 @@
     "url": "https://api.gofundnode.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.gofundnode.com.ico",
     "slug": "api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
     "time": 498,
     "timeDay": 582,
     "timeWeek": 485,
     "timeMonth": 490,
     "timeYear": 498,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-04": 24
+    }
   },
   {
     "name": "API readiness",
     "url": "https://api.gofundnode.com/ready",
     "icon": "https://icons.duckduckgo.com/ip3/api.gofundnode.com.ico",
     "slug": "api-readiness",
-    "status": "up",
-    "uptime": "65.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "42.58%",
-    "uptimeMonth": "57.97%",
-    "uptimeYear": "65.70%",
+    "status": "down",
+    "uptime": "65.88%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "49.38%",
+    "uptimeMonth": "57.92%",
+    "uptimeYear": "65.88%",
     "time": 823,
     "timeDay": 680,
     "timeWeek": 896,
@@ -65,7 +67,8 @@
       "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
-      "2026-10-19": 1092
+      "2026-10-19": 1092,
+      "2026-11-04": 19
     }
   },
   {
@@ -73,63 +76,69 @@
     "url": "https://gofundnode.com",
     "icon": "https://icons.duckduckgo.com/ip3/gofundnode.com.ico",
     "slug": "website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 489,
     "timeDay": 528,
     "timeWeek": 478,
     "timeMonth": 474,
     "timeYear": 489,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-04": 14
+    }
   },
   {
     "name": "Docs",
     "url": "https://docs.gofundnode.com",
     "icon": "https://icons.duckduckgo.com/ip3/docs.gofundnode.com.ico",
     "slug": "docs",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 488,
     "timeDay": 558,
     "timeWeek": 489,
     "timeMonth": 474,
     "timeYear": 488,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-04": 9
+    }
   },
   {
     "name": "Console",
     "url": "https://console.gofundnode.com",
     "icon": "https://icons.duckduckgo.com/ip3/console.gofundnode.com.ico",
     "slug": "console",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 482,
     "timeDay": 560,
     "timeWeek": 488,
     "timeMonth": 468,
     "timeYear": 482,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-04": 4
+    }
   },
   {
     "name": "Staging API",
     "url": "https://api.staging.gofundnode.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.staging.gofundnode.com.ico",
     "slug": "staging-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -138,6 +147,8 @@
     "timeWeek": 486,
     "timeMonth": 466,
     "timeYear": 482,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-04": 0
+    }
   }
 ]
